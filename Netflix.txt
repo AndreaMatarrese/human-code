@@ -1,0 +1,20 @@
+START
+
+Voglio utilizzare la tv per vedere Netflix con gli amici
+    IF--Accendi la tv per vedere un film OR serie TV
+        --scorro la lista dei generi all'interno dell'app
+        ELSE
+            -spengo la tv
+    end IF
+
+--Scorro nella libreria di Netflix
+--Scelgo il genere da vedere
+    IF--Amici confermano il genere scelto
+        --Scelgo un film OR serie TV
+        ELSE
+            -Scelgo il genere da vedere
+    end IF
+
+--scegliere film
+--scegliere serie tv
+END
